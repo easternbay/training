@@ -1,4 +1,4 @@
-#Spring boot demo 
+# Spring boot demo 
 
 This is a demo project that integrates the following dependencies: WEB、JPA、DevTools、Thymeleaf、MySQL.
 
