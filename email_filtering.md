@@ -1,4 +1,4 @@
-# Emaill filter
+# Email filter
 A method that'll help you sort your emails.
 
 ## Create a new folder
