@@ -20,8 +20,6 @@ $ sudo apt-get install shadowsocks-qt5
 ## 2 Configure shadowsocks
 2.1 Open shadowsocks. Connect->Add->Manually. Create your connections.
 
-![Image](images/3.png?raw=true)
-
 2.2 Select any one of the connections that works. Right Click->Connect. Confirm that connect succeeds.
 
 ![Image](images/4.png?raw=true)
