@@ -18,39 +18,7 @@ $ sudo apt-get update
 $ sudo apt-get install shadowsocks-qt5
 ```
 ## 2 Configure shadowsocks
-2.1 Open shadowsocks. Connect->Add->Manually. Create 3 connections as following:
-
-JP
-
-Your Server IP        :  54.250.85.13
-
-Your Server Port      :  11295
-
-Your Password         :  Kf9bRboFWgYZWZbCTZWLgsZb
-
-Your Encryption Method:  aes-256-cfb
-
-
-US
-
-Your Server IP        :  34.217.75.248
-
-Your Server Port      :  9825
-
-Your Password         :  rXQpsJoVrTngiLFRK3ygUseo
-
-Your Encryption Method:  aes-256-cfb
-
-
-JP Vultr
-
-Your Server IP        :  207.148.103.220
-
-Your Server Port      :  16904
-
-Your Password         :  Easternbayqucheng404
-
-Your Encryption Method:  aes-256-cfb
+2.1 Open shadowsocks. Connect->Add->Manually. Create your connections.
 
 ![Image](images/3.png?raw=true)
 
