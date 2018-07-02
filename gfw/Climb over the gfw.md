@@ -21,9 +21,6 @@ $ sudo apt-get install shadowsocks-qt5
 2.1 Open shadowsocks. Connect->Add->Manually. Create your connections.
 
 2.2 Select any one of the connections that works. Right Click->Connect. Confirm that connect succeeds.
-
-![Image](images/4.png?raw=true)
-
 ## 3 Install offline Chrome plugin SwitchyOmega
 3.1 Download, install and open chrome. File->More Tools->Extensions. Toggle on the dev mode. Drag the SwitchyOmega plugin offline installer from u disk to Chrome window to execute offline installation. As soon as the installation is complete, a configuration page is shown.
 
