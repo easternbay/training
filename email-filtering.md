@@ -1,5 +1,5 @@
 # Email filter
-A method that'll help you sort your emails.
+A method that'll help you sort your emails. Assuming that you're using the aliyun mail system.
 
 ## Create a new folder
 Click the button of `Other folder` to create a new folder named `JIRA`.
