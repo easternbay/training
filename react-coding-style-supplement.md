@@ -93,3 +93,7 @@ But remember one line function is not prefered either, since the purpose is to i
 ### Component files shouldn't long than 500 lines.
 
 If the line size grows over 500, the code needs to be refactored before submit.
+
+### If more than two components are quite the same, then it'll need to be refactored.
+
+In this case, the duplication needs to be reduced as much as possible.
