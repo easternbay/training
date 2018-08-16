@@ -88,7 +88,7 @@ https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to
 
 Each function should only do one thing a time to make the size managable, if the function grows big enough, it'll need to refactored. 
 
-But remember one line function is not prefered either, since the purpose is to improve the code read ability, the easier your code could be understand the better it is.
+But remember one line function is not prefered either, since the purpose is to improve the code readability, the easier your code could be understand the better it is.
 
 ### Component files shouldn't long than 500 lines.
 
