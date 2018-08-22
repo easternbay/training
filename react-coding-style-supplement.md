@@ -90,7 +90,7 @@ Each function should only do one thing a time to make the size managable, if the
 
 But remember one line function is not prefered either, since the purpose is to improve the code readability, the easier your code could be understand the better it is.
 
-### Component files shouldn't long than 500 lines.
+### Component files shouldn't long than 300 lines.
 
 If the line size grows over 500, the code needs to be refactored before submit.
 
