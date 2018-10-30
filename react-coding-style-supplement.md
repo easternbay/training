@@ -84,7 +84,7 @@ Main component
 **Reference:**
 https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method
 
-## Avoid to add semicolon at the end of arrow functions in class
+### Avoid to add semicolon at the end of arrow functions in class
 
 ```javascript
 // Bad
