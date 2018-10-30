@@ -84,6 +84,28 @@ Main component
 **Reference:**
 https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method
 
+## Avoid to add semicolon at the end of arrow functions in class
+
+```javascript
+// Bad
+class A extends React.Component {
+  handleClick = () => {
+    // do something
+  };
+}
+
+// Good
+class A extends React.Component {
+  handleClick = () => {
+    // do something
+  }
+}
+
+```
+
+By reading through the React official doc, they don't add it too, but IDE might have an warning to show that you need to add it. Here's how to disable it in IDEA.
+![Image](images/avoid-add-semicolon.png?raw=true)
+
 ### Functions should stay small
 
 Each function should only do one thing a time to make the size managable, if the function grows big enough, it'll need to refactored. 
