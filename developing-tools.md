@@ -1,5 +1,3 @@
-# bass-ats
-
 ## K-Ruler Setup
 
 ```bash
